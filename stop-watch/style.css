@@ -1,0 +1,38 @@
+
+.wrapper {
+width: 800px;
+margin: 30px auto;
+text-align:center;
+background-color: black;
+color: azure;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 100px;
+}
+
+#seconds, #tens{
+  font-size:100px;
+}
+#dot{
+    font-size: 140px;
+}
+
+button{
+border : solid 1px ;
+font-size : 25px;
+padding : 18px 10px;
+width : 180px;
+margin : 10px;
+background-color: black;
+color: white;
+}
+
+
+
+
+
+
+
